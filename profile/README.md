@@ -50,22 +50,22 @@ Every project carries the same commitments:
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Scarwatch">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Scarwatch/main/assets/avatar.png" width="72" alt="scarwatch"/><br/>
-    <strong>scarwatch</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Scarwatch/main/assets/avatar.png" width="72" alt="Scarwatch"/><br/>
+    <strong>Scarwatch</strong>
   </a><br/>
   <sub>Automated detection and longitudinal tracking of conspecific scarring on killer whales.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Consort">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Consort/main/assets/avatar.png" width="72" alt="consort"/><br/>
-    <strong>consort</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Consort/main/assets/avatar.png" width="72" alt="Consort"/><br/>
+    <strong>Consort</strong>
   </a><br/>
   <sub>Encounter-aware photo-identification for socially structured wildlife populations.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Plimsoll">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Plimsoll/main/assets/avatar.png" width="72" alt="plimsoll"/><br/>
-    <strong>plimsoll</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Plimsoll/main/assets/avatar.png" width="72" alt="Plimsoll"/><br/>
+    <strong>Plimsoll</strong>
   </a><br/>
   <sub>Whale body-condition assessment from boat-based photo-ID imagery.</sub>
 </td>
@@ -73,29 +73,29 @@ Every project carries the same commitments:
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Pelorus">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Pelorus/main/assets/avatar.png" width="72" alt="pelorus"/><br/>
-    <strong>pelorus</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Pelorus/main/assets/avatar.png" width="72" alt="Pelorus"/><br/>
+    <strong>Pelorus</strong>
   </a><br/>
   <sub>Metric position, heading, and movement of whales from monocular imagery.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Almanac">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Almanac/main/assets/avatar.png" width="72" alt="almanac"/><br/>
-    <strong>almanac</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Almanac/main/assets/avatar.png" width="72" alt="Almanac"/><br/>
+    <strong>Almanac</strong>
   </a><br/>
   <sub>Curated, versioned dataset registry. The reference book every other project resolves through.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Forge">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Forge/main/assets/avatar.png" width="72" alt="forge"/><br/>
-    <strong>forge</strong>
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Forge/main/assets/avatar.png" width="72" alt="Forge"/><br/>
+    <strong>Forge</strong>
   </a><br/>
   <sub>Trained-artefact registry. Where the calibrated instruments — the trained models — are made and stored under tag.</sub>
 </td>
 </tr>
 </table>
 
-Projects are **named after maritime instruments** — a pelorus, an almanac, a
+Projects are **named after maritime instruments** — a Pelorus, an Almanac, a
 Plimsoll line, a scar watch (the lookout's). The choice is deliberate. These
 were not gadgets; they were calibrated tools that practitioners staked their
 judgement on, often in bad conditions. That is the standard we hold ourselves
