@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Operational Ecology">
+  <!-- chartroom plate -->
+  <circle cx="128" cy="128" r="120" fill="#0b2540"/>
+  <circle cx="128" cy="128" r="120" stroke="#cfd6da" stroke-width="1.5" opacity="0.35"/>
+  <!-- horizon -->
+  <line x1="44" y1="138" x2="212" y2="138" stroke="#cfd6da" stroke-width="3"/>
+  <!-- sun rising over the horizon -->
+  <path d="M 100 138 A 28 28 0 0 1 156 138" stroke="#cfd6da" stroke-width="3"/>
+  <!-- azimuth mark on the horizon (centred bearing indicator) -->
+  <line x1="128" y1="132" x2="128" y2="144" stroke="#cfd6da" stroke-width="3"/>
+  <!-- sea -->
+  <path d="M 48 168 Q 76 158 104 168 T 160 168 T 212 168" stroke="#cfd6da" stroke-width="2.5"/>
+  <path d="M 56 192 Q 86 182 116 192 T 168 192 T 208 192" stroke="#cfd6da" stroke-width="2" opacity="0.75"/>
+</svg>
