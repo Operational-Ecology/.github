@@ -17,9 +17,9 @@ than the people doing the work can process. The bottleneck is rarely the
 question — it's the time it takes to extract the signal from data already
 collected by people who already know what they are looking for.
 
-Operational Ecology builds production machine-learning tools that close that
-gap. We work with researchers, NGOs, and government agencies who already
-collect the data and already understand its biology, and we ship the systems
+Operational Ecology builds production-grade machine-learning tools that close that
+gap. We partner with researchers, NGOs, and government agencies who already
+collect the data and already understand its biology, and we build the systems
 that scale the analysis without changing the workflow the work happens in.
 
 The biologists and technicians whose careers are devoted to these populations
