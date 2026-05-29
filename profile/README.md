@@ -50,21 +50,21 @@ Every project carries the same commitments:
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Scarwatch">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Scarwatch/main/assets/avatar.png" width="72" alt="Scarwatch"/><br/>
+    <img src="assets/scarwatch.png" width="72" alt="Scarwatch"/><br/>
     <strong>Scarwatch</strong>
   </a><br/>
   <sub>Automated detection and longitudinal tracking of conspecific scarring on killer whales.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Consort">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Consort/main/assets/avatar.png" width="72" alt="Consort"/><br/>
+    <img src="assets/consort.png" width="72" alt="Consort"/><br/>
     <strong>Consort</strong>
   </a><br/>
   <sub>Encounter-aware photo-identification for socially structured wildlife populations.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Plimsoll">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Plimsoll/main/assets/avatar.png" width="72" alt="Plimsoll"/><br/>
+    <img src="assets/plimsoll.png" width="72" alt="Plimsoll"/><br/>
     <strong>Plimsoll</strong>
   </a><br/>
   <sub>Whale body-condition assessment from boat-based photo-ID imagery.</sub>
@@ -73,21 +73,21 @@ Every project carries the same commitments:
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Pelorus">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Pelorus/main/assets/avatar.png" width="72" alt="Pelorus"/><br/>
+    <img src="assets/pelorus.png" width="72" alt="Pelorus"/><br/>
     <strong>Pelorus</strong>
   </a><br/>
   <sub>Metric position, heading, and movement of whales from monocular imagery.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Almanac">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Almanac/main/assets/avatar.png" width="72" alt="Almanac"/><br/>
+    <img src="assets/almanac.png" width="72" alt="Almanac"/><br/>
     <strong>Almanac</strong>
   </a><br/>
   <sub>Curated, versioned dataset registry. The reference book every other project resolves through.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/Operational-Ecology/Forge">
-    <img src="https://raw.githubusercontent.com/Operational-Ecology/Forge/main/assets/avatar.png" width="72" alt="Forge"/><br/>
+    <img src="assets/forge.png" width="72" alt="Forge"/><br/>
     <strong>Forge</strong>
   </a><br/>
   <sub>Trained-artefact registry. Where the calibrated instruments — the trained models — are made and stored under tag.</sub>
