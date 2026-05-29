@@ -85,7 +85,13 @@ Every project carries the same commitments:
   </a><br/>
   <sub>Curated, versioned dataset registry. The reference book every other project resolves through.</sub>
 </td>
-<td width="33%"></td>
+<td align="center" width="33%">
+  <a href="https://github.com/Operational-Ecology/Forge">
+    <img src="https://raw.githubusercontent.com/Operational-Ecology/Forge/main/assets/logo.svg" width="72" alt="forge"/><br/>
+    <strong>forge</strong>
+  </a><br/>
+  <sub>Trained-artefact registry. Where the calibrated instruments — the trained models — are made and stored under tag.</sub>
+</td>
 </tr>
 </table>
 
